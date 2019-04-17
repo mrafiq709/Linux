@@ -76,4 +76,7 @@ Java Command:
 ---------------
 39. javac file.java
 	java file
-	
+
+More Advanced Command:
+----------------------------
+https://www.tecmint.com/20-advanced-commands-for-linux-experts/
