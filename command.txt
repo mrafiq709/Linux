@@ -21,8 +21,59 @@
 	cal 02 1835
 17. date
 	date --set='14 may 2013 13:57'
-18. cat a.txt b.txt c.txt d.txt >> abcd.txt
-	cat abcd.txt
+18. cat a.txt b.txt c.txt d.txt >> abcd.txt [add multiple file]
+	cat abcd.txt [show file information]
 19.	cp /home/user/Downloads abc.tar.gz /home/user/Desktop
 20. mv /home/user/Downloads abc.tar.gz /home/user/Desktop
 21. pwd
+
+https://www.tecmint.com/20-advanced-commands-for-middle-level-linux-users/
+
+22. find -name *.sh
+23. grep someText /etc/passwd
+	grep -i someText /etc/passwd [case insensetive]
+	grep -r "127.0.01" /etc/ [read all files under each directory for a string “127.0.0.1“.]
+24. man man [System manual]
+25. ps [Running process]
+	ps -A
+	ps -A | grep -i ssh [Here ‘ps‘ is pipelined with ‘grep‘ command to find customised and relevant output of our need.]
+26. kill 1285 [1285 is PID]
+	pkill apache2
+27. whereis ls [to locate the Binary, Sources and Manual Pages of the command]
+28. service apache2 start
+	service apache2 restart
+	service apache2 stop
+29. alias l='ls -l' [Rename command]
+30. unalias l [Remove alias]
+31. df [disk usages]
+	df -a
+	df -h [GB]
+	df -hT /home [Particuler directory]
+	df -k [Bytes]
+	df -m [MB]
+	df -i [inodes]
+	df -T [Type]
+	df -t ext3 [certain file type]
+32. rm [Remove Directory]
+	rm -rf directory_name
+33. echo "Something" [output]
+34. passwd [Change password]
+35. cmp file1.txt file2.txt [compare file]
+36. wget link [download]
+37. mount /dev/sdb1 /dev/usb [mount filesystem ‘sdb1‘ to directory ‘usb‘.]
+
+C/C++ Command:
+--------------------
+38. gcc Hello.c [Compile C program]
+	./a.out [Run]
+	gcc -o Hello Hello.c [Another way]
+	g++ Add.cpp [for C++]
+	./a.out [run]
+	g++ -o Add Add.cpp [Another way]
+	./Add
+	
+Java Command:
+---------------
+39. javac file.java
+	java file
+	
