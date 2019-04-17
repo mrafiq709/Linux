@@ -10,10 +10,9 @@ example: $ find / -name context.xml
 <a href="https://imgur.com/0p5agVN"><img src="https://i.imgur.com/0p5agVN.png" title="source: imgur.com" /></a>
 
 3.  “ls -l” list the content of folder, in long listing fashion
-</br>
 <a href="https://imgur.com/eUfse62"><img src="https://i.imgur.com/eUfse62.png" title="source: imgur.com" /></a>
 
-d (stands for directory).
+<b>d</b> (stands for directory).
 
 rwxr-xr-x is the file permission of the file/folder for owner, group and world.
 
