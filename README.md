@@ -7,7 +7,7 @@ $ find directory -name filename
 example: $ find / -name context.xml
 
 2. “ls” stands for (List Directory Contents)
-</br> </br>
+</br>
 <a href="https://imgur.com/0p5agVN"><img src="https://i.imgur.com/0p5agVN.png" title="source: imgur.com" /></a>
 
 3.  “ls -l” list the content of folder, in long listing fashion
