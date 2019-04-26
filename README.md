@@ -2,16 +2,16 @@
 Essential Linux Command
 
 1. To find something
-...
+```
 $ find directory -name filename
 example: $ find / -name context.xml
-...
+```
 2. “ls” stands for (List Directory Contents)
 <a href="https://imgur.com/0p5agVN"><img src="https://i.imgur.com/0p5agVN.png" title="source: imgur.com" /></a>
 
 3.  “ls -l” list the content of folder, in long listing fashion
 <a href="https://imgur.com/eUfse62"><img src="https://i.imgur.com/eUfse62.png" title="source: imgur.com" /></a>
-
+```
 <b>d</b> (stands for directory).
 
 <b>rwxr-xr-x</b> is the file permission of the file/folder for owner, group and world.
@@ -25,7 +25,7 @@ The 2nd <b>root</b> in the above example means file belongs to user group root.
 <b>Mar 14 11:24</b> is the date and time of last modification.
 
 And at the end is the name of the <b>File/Folder</b>.
-
+```
 
 4. “ls -a“, list the content of folder, including hidden files
 <a href="https://imgur.com/dENxpUQ"><img src="https://i.imgur.com/dENxpUQ.png" title="source: imgur.com" /></a>
