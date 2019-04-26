@@ -2,10 +2,10 @@
 Essential Linux Command
 
 1. To find something
+...
 $ find directory -name filename
-
 example: $ find / -name context.xml
-
+...
 2. “ls” stands for (List Directory Contents)
 <a href="https://imgur.com/0p5agVN"><img src="https://i.imgur.com/0p5agVN.png" title="source: imgur.com" /></a>
 
