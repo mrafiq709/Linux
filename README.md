@@ -42,7 +42,7 @@ And at the end is the name of the <b>File/Folder</b>.
 8.  “uname -a” command stands for (Unix Name), print detailed information about the machine name, Operating System and Kernel.
 <a href="https://imgur.com/YOepUeR"><img src="https://i.imgur.com/YOepUeR.png" title="source: imgur.com" /></a>
 
-
+```
     “Linux“: The machine’s kernel name.
     
     “localhost.localdomain“: The machine’s node name.
@@ -54,7 +54,8 @@ And at the end is the name of the <b>File/Folder</b>.
     “x86_64“: The architecture of the processor.
     
     “GNU/Linux“: The operating system name.
-	
+```
+
 9.  “history” command stands for History (Event) Record
 <a href="https://imgur.com/3kOZEsL"><img src="https://i.imgur.com/3kOZEsL.png" title="source: imgur.com" /></a>
 
