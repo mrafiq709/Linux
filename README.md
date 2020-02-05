@@ -97,3 +97,10 @@ And at the end is the name of the <b>File/Folder</b>.
 21.
 <a href="https://imgur.com/J6mswx0"><img src="https://i.imgur.com/J6mswx0.png" title="source: imgur.com" /></a>
 
+22.
+Remove/Uninstall something:
+    sudo apt-get remove slack
+    sudo apt-get remove --auto-remove slack
+    sudo apt-get purge slack
+    sudo apt-get purge --auto-remove slack
+
