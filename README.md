@@ -99,6 +99,7 @@ And at the end is the name of the <b>File/Folder</b>.
 
 22.
 Remove/Uninstall something:
+
     sudo apt-get remove slack
     sudo apt-get remove --auto-remove slack
     sudo apt-get purge slack
