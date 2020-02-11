@@ -26,6 +26,8 @@ The 2nd <b>root</b> in the above example means file belongs to user group root.
 
 And at the end is the name of the <b>File/Folder</b>.
 
+##### all permission
+        sudo chmod -R 777 /folder
 
 4. “ls -a“, list the content of folder, including hidden files
 <a href="https://imgur.com/dENxpUQ"><img src="https://i.imgur.com/dENxpUQ.png" title="source: imgur.com" /></a>
