@@ -2,4 +2,4 @@
 
 Cache Details
 ---------------
-wmic cpu get L2CacheSize, L3CacheSize
+`wmic cpu get L2CacheSize, L3CacheSize`
